@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "cd server && npm start",
+    "build-ts": "tsc",
     "react-dev": "cd client && npm start",
     "test": "cd server && npm test",
     "preinstall": "cd server && npm install",
